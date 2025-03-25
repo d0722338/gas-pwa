@@ -1,7 +1,7 @@
 {
   "name": "My GAS PWA",
   "short_name": "GAS PWA",
-  "start_url": "https://script.google.com/macros/s/XXXXXXXXX/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbxUkGryw2wQE-banVz1jXu523JRe0l3GuybV9T0yWxe/dev",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196F3",
